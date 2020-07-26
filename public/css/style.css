@@ -1,0 +1,300 @@
+
+/* nen background */
+header{
+    background: url(../image/anhnencuadoan.png);
+    background-size: cover;
+    background-color: #000;
+    background-position: center;   
+}
+.logo{
+    float: left;
+
+}
+/* cac nut goc tren */
+.main-nav{
+    float:right;
+    list-style:none;
+    margin-top: -700px;
+    background-attachment: fixed;
+
+    
+}
+.main-nav li{
+    display: inline-block;
+    margin-right:30px;
+
+}
+/* xoa di hieu ung cua the a va the li */
+.main-nav li a{
+    text-decoration: none;
+    color: #d8d9d8;
+    font-size: 110%;
+    font-weight: 700;
+}
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.row h1{
+    width: 1440px;
+    margin: 0 auto;
+    color: #d8d9d8;
+    list-style:none;
+
+}
+.row{
+    margin-top: -600px;
+    margin-left: 350px;
+}
+.row button{
+    background: #ff732e;
+    color: silver;
+    
+}
+h1{
+    font-size: 70px; 
+    font-weight: 700;
+}
+.img1{
+    margin-left: 350px;
+    margin-top: -500px;
+    letter-spacing: 1px;
+}
+
+.btn{
+    text-decoration: none;
+    color: #d8d9d8;
+    background: #ff732e ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+#bang{
+    margin-top: -85px;
+    margin-right: -280px;
+    letter-spacing: 1px;
+    float: right;
+     gap:normal;
+}
+h3{
+    color: #ff732e;
+    text-align: right;
+    font-weight: 700;
+
+}
+#contrain{  
+    float: right;
+    margin-top: -426px;
+    
+    font-weight: 700;
+    color: #d8d9d8;
+    background: #292a2c;
+    font-size: 28px;
+    padding-right:100px;
+    padding-bottom:80 px;
+}
+#zed{
+    font-weight: 900;
+    color:#d8d9d8;  
+    font-size: 47px;
+    line-height: 57px;
+    margin-left: 350px;
+    margin-top:100px;
+}
+.bass{
+    margin-top: 100px;
+    margin-left: 350px;
+}
+#ttth3{
+    float: left;
+}
+#lorem1{
+    color: #d8d9d8;
+}
+#more1{
+    font-size: 23px;
+    border-radius: 3px;
+    color: #d8d9d8;
+    background:#ff732e;
+    display: inline;
+}
+#more1 a{
+    text-decoration: none;
+    color: #d8d9d8;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bast{
+    padding-bottom: 300px;
+    margin-top: -500px;
+    margin-left: 800px;
+    margin-bottom: 250px;
+}
+#ttth3a{
+    float: left;
+}
+#lorem2{
+    color: #d8d9d8;
+}
+#more2{
+    
+    font-size: 23px;
+    border-radius: 3px;
+    color: #d8d9d8;
+    background:#ff732e;
+    display: inline;
+    
+}
+#more2 a{
+    text-decoration: none;
+    color: #d8d9d8;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+#TTT2{
+    margin-top: 50px;
+}   
+
+#cauten{
+    margin-left: 350px;
+    margin-top: -400px;
+    
+}
+#cauten2{
+    margin-left: 800px;
+    margin-top: -300px;
+    
+}
+#tast1{
+    
+    font-weight: 700;
+    font-size: 25px;
+    margin-top:-200px;
+    margin-left: 450px;
+}
+#tast1 a{
+    color: #d8d9d8;
+    text-decoration: none;
+}
+#tast2{
+    
+    font-weight: 700;
+    font-size: 25px;
+    margin-top:-80px;
+    margin-left: 900px;
+}
+#tast2 a{
+    color: #d8d9d8;
+    text-decoration: none;
+}
+#compa{
+    margin-top: 250px ;
+    margin-left: 696px;
+    font-weight: 700;
+    color:#ff732e ;
+}
+#baing{
+    margin-top:100px;
+    margin-left: 510px;
+    color: #7c7c7c;
+}
+#baing2{
+    margin-top:10px;
+    margin-left: 600px;
+    color: #7c7c7c;
+}
+#mate1{
+    margin-top: 50px;
+    margin-left: 750px;
+}
+.maxti{
+    margin-left:150px;
+    background: #292a2c;
+}
+#TEC1{
+    margin-left:300px;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+#TEC2{
+    margin-left:500px;
+    margin-top:-120px;
+}
+#TEC3{
+    margin-left:700px;
+    margin-top:-120px;
+}
+
+#TEC4{
+    margin-left:900px;
+    margin-top:-120px;
+}
+ /* lam nen cho phan cuoi cung  */
+.bottom{
+    background-color: #000;
+    background: url(../image/anhnencuadoan.png);
+    
+}
+#Bo{
+    background-size: cover;
+    background-position: center;
+    background: url(../image/anhnencuadoan.png);
+    background: #000;
+}
+#contai{
+    color: #d8d9d8;
+    font-weight: 700;
+    font-size:50px;
+    margin-left:  350px;
+    margin-top:  -360px;
+}
+#contai2{
+    color: #d8d9d8;
+    margin-top: 50px;
+    margin-left:350px;
+}
+#contai3{
+    font-size: 20px;
+    background: #ff732e;
+    border-radius: 3px;
+    display: inline;    
+    margin-left: 350px;
+}
+#contai3 a{
+    margin-top:10px;
+    text-decoration: none;
+    margin-top: 100px;
+    color: #d8d9d8;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#Po{
+    margin-top:-416px;
+    margin-left:800px;
+}
+#logo2{
+    margin-top: 100px;
+    margin-left: 320px;
+}
+#pen1{
+    margin-left: 500px;
+    margin-top:-100px;
+}
+#pen2{
+    margin-left: 700px;
+    margin-top:-160px;
+}
+#pen3{
+    margin-left: 900px;
+    margin-top:-140px;
+}
+#end{
+    margin-left: 500px;
+}
